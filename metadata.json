@@ -1,0 +1,6 @@
+{
+  "name": "SEO Specialist & Content Auditor",
+  "description": "خبير تحسين محركات البحث ومدقق محتوى متخصص في معايير Google Spam و Helpful Content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
